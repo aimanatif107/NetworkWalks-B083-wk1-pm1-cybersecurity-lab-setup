@@ -40,7 +40,7 @@ Installed **7-Zip** to handle compressed virtual machine archives.
 ### Step 2: Install VirtualBox
 Installed the latest version of **Oracle VirtualBox** as the hypervisor.
 
-> 📸 ![VirtualBox Version](screenshots/02-virtualbox-version.png)
+> 📸 ![VirtualBox Version](02-virtualbox-version.png)
 > *Figure 2: VirtualBox version 7.2.16 installed.*
 
 ### Step 3: Create NAT Network
