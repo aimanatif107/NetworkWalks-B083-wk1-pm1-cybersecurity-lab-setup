@@ -124,12 +124,12 @@ Created a VirtualBox snapshot to preserve the clean baseline configuration.
 sudo nmcli connection modify "Wired connection 1" ipv4.dad-timeout 0
 sudo nmcli connection down "Wired connection 1"
 sudo nmcli connection up "Wired connection 1"
-
+```
 
 
 ---
 
-**Internship Project:** NetworkWalks Academy  
-**Week:** 1 - Project Module 1  
-**Author:** Aiman Atif  
-**Date:** 12-09-2026
+> **Internship Project:** NetworkWalks Academy  
+> **Week:** 1 - Project Module 1  
+> **Author:** Aiman Atif  
+> **Date:** 12-09-2026
