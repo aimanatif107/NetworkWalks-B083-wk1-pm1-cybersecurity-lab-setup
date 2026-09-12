@@ -16,11 +16,11 @@ As part of my internship at **NetworkWalks Academy**, I designed and deployed a 
 ## ⚙️ Lab Configuration
 |  Component | ⚙️ Configuration |
 | --- | --- |
-| ️ Host OS | Windows 10/11 |
-| 🧰 Hypervisor | VirtualBox 7.x (Latest) |
+| ️ Host OS | Windows 11 |
+| 🧰 Hypervisor | VirtualBox 7.2.8 |
 | 🐉 Security OS | Kali Linux 2026.2 |
 | 🧠 Kali RAM | 2048 MB (2 GB) |
-| 🌐 Virtual Network | NATNetwork (Custom) |
+| 🌐 Virtual Network | NATNetwork |
 | 📡 Network Range | 10.0.0.0/24 |
 | 🐧 Kali IP Address | 10.0.0.2/24 |
 | 🚪 Default Gateway | 10.0.0.1 |
@@ -34,7 +34,7 @@ As part of my internship at **NetworkWalks Academy**, I designed and deployed a 
 ### Step 1: Install 7-Zip
 Installed **7-Zip** to handle compressed virtual machine archives.
 
-> 📸 ![7-Zip Installation](screenshots/01-7zip-installation.png)
+> 📸 !(01-7zip-installation.png)
 > *Figure 1: 7-Zip installation completed.*
 
 ### Step 2: Install VirtualBox
