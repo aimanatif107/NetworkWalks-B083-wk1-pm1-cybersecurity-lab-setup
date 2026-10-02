@@ -131,5 +131,5 @@ sudo nmcli connection up "Wired connection 1"
   <h3>👤 Author & Project Information</h3>
   <b>Pentester:</b> Aiman Atif | Cybersecurity Intern<br>
   <b>Program:</b> Networkwalks Cybersecurity Internship (Batch B083)<br>
-  <b>Date:</b> 18-09-2026
+  <b>Date:</b> 11-09-2026
 </div>
